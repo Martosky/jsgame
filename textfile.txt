@@ -1,0 +1,5 @@
+this is where my sudo code will be.
+Firstly, I have to create a function that will randomly return either rock or paper or scissor.
+first i need to creat an array that would holds these values.
+secondly i will have to create a lop that would loop through the array 
+i need to create a function that will return the values in the loop randomly
